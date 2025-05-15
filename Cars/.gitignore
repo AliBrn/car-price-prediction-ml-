@@ -1,0 +1,15 @@
+# Jupyter checkpoint klasörleri
+.ipynb_checkpoints/
+
+# VS Code Jupyter geçici belgeleri
+.virtual_documents/
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam klasörü
+cars_env/
+
+# VS Code ayar klasörü (eğer oluşursa)
+.vscode/
